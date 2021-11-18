@@ -1,1 +1,1 @@
-alert("teste");
+alert("Nosso produto");
